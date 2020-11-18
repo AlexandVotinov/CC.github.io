@@ -1,0 +1,14 @@
+.main{
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+#result{
+    font-weight: 600;
+    width: 100%;
+    overflow:auto;
+    white-space: normal;
+}
